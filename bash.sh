@@ -1,7 +1,4 @@
 #!/bin/bash
-echo "My Name Is Muhammad Waqas"
-
-#!/bin/bash
 
 # Display system name
 echo "System Name: $(hostname)"
